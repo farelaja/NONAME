@@ -27,11 +27,11 @@ global.botname = 'NONAME' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'HENDRA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281227607864']
-global.premium = ['6281227607864']
-global.packname = 'HENDRA LUBECK'
-global.ownerr = ['NONAME']
-global.author = 'HENDRA LUBECK'
+global.owner = ['6283848574563']
+global.premium = ['6283848574563','6281364097515']
+global.packname = ''
+global.ownerr = ['?']
+global.author = 'ʏᴛᴛᴀ ʙᴏᴛᴢ'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
@@ -41,7 +41,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot HENDRA LUBECK',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot ʏᴛᴛᴀ ʙᴏᴛᴢ',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
